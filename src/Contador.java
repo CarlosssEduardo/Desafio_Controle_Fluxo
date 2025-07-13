@@ -10,7 +10,7 @@ public class Contador {
         parametro1 = scar.nextInt();
 
 
-        /* Aqui criamos  */
+        
         while (true) {
             System.out.println("\n--> Digite o Segundo Parâmetro maior que: (" + parametro1 + ").");
             parametro2 = scar.nextInt();
